@@ -1,0 +1,33 @@
+
+.mishu{
+    color: brown;
+    background-color: hsl(33, 100%, 88%);
+    font-weight: bold;
+    font-style: oblique;
+}
+.mishu1{
+    color:rgb(79, 83, 3);
+    background-color: hsl(330, 72%, 93%);
+    font-weight: bolder;
+    font-style:italic;
+}
+.mishu2{
+    color:blue;
+    background-color:rgb(190, 239, 140);
+    font-weight:bold;
+    font-style:inherit;
+}
+.mishu3{
+    color:crimson;
+    background-color:aqua;
+    font-weight: bolder;
+    font-style:italic;
+}
+div{
+    width:500px;
+    border:20px solid tomato;
+    padding:10px;
+    margin-left: 500px;
+
+
+}
